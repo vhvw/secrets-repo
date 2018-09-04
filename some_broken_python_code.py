@@ -2,7 +2,7 @@
 """Recursive infinite loops please."""
 
 # Totally not leaked
-AWS_ACCESS_KEY_ID = 'AKIA432HFDSLG37F31FU'
+AWS_ACCESS_KEY_ID = 'AKIA6666666666666666'
 AWS_SECRET_ACCESS_KEY = 'n3f3rp170u15y0urw41fu'
 
 
